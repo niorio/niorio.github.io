@@ -1,0 +1,51 @@
+.devicon{
+  max-width: 2em;
+  font-size: 200%;
+  height: 2em;
+}
+
+#skills > *{
+  float: left;
+  width: 100%;
+  margin-right: .1em;
+}
+
+
+#skills:after{
+  display: block;
+  content:"";
+  clear: both;
+}
+
+.backbone{
+  background-image: url('../images/backbonejs-original-wordmark.svg');
+}
+
+.ruby{
+  background-image: url('../images/ruby-original-wordmark.svg')
+}
+
+.rails{
+  background-image: url('../images/rails-original-wordmark.svg')
+}
+
+.javascript{
+  background-image: url('../images/javascript-original.svg')
+}
+
+.html{
+  background-image: url('../images/html5-original-wordmark.svg')
+}
+
+.css{
+  background-image: url('../images/css3-original-wordmark.svg')
+}
+
+.jquery{
+  background-image: url('../images/jquery-original-wordmark.svg')
+}
+
+.postgres{
+  background-image: url('../images/postgresql-original-wordmark.svg')
+
+}
