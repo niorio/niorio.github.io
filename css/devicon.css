@@ -48,5 +48,8 @@
 
 .postgres{
   background-image: url('../images/postgresql-original-wordmark.svg')
+}
 
+.golang{
+  background-image: url('../images/go-original.svg')
 }
